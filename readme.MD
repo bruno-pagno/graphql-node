@@ -1,0 +1,1 @@
+This is a simple GraphQL demo in Node.js used for learning purposes
